@@ -13,7 +13,7 @@ from setuptools import setup, find_packages
 #     return reqs
 
 
-version_tag = '0.9.3'
+version_tag = '0.22.1'
 
 setup(name='cobra',
       version=version_tag,
